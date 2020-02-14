@@ -1,7 +1,7 @@
 body {
 color:black;
 background-color:white;
-background-image:url(images/aaaaa.jpg);
+background-image:url(./aaaaa.jpg);
 background-position:center center;
 background-repeat:no-repeat;
 }
